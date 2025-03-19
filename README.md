@@ -11,7 +11,7 @@
 </p>
 
 # 💫 About Me:
-Computer Engineering student at the University of Tehran.
+Computer Engineering student at University of Tehran.
 
 Currently learning how to train various deep learning models specifically for financial markets and data science applications.
 
