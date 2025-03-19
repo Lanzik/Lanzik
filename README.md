@@ -18,4 +18,6 @@ Passionate about web scraping and data collection to support AI model training.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lanzik&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Lanzik.Lanzik)
+
 
