@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/Lanzik">
-    <img src="https://github.com/Lanzik/Lanzik/blob/main/Farhad_Lanzik_text.png" alt="Jonah Lawrence" /></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Farhad Lanzik&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    </a>
 </p>
 
 <p align="center">
