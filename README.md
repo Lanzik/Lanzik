@@ -26,6 +26,6 @@ Passionate about web scraping and data collection to support AI model training.
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lanzik&theme=merko&hide_border=true)
 </br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lanzik&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lanzik&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=Lanzik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
