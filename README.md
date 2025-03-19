@@ -17,12 +17,5 @@ Passionate about web scraping and data collection to support AI model training.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ex-2002&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Lanzik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanzik&theme=cobalt&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanzik&layout=compact&langs_count=9&hide=css,html,Assembly,vhdl,antlr,tex&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
