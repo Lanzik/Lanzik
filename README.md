@@ -26,6 +26,10 @@ Passionate about web scraping and data collection to support AI model training.
 # 📊 GitHub Stats:
 ![]([https://github-readme-streak-stats.herokuapp.com/?user=Lanzik&hide_border=true&theme=merko](https://github-readme-streak-stats.herokuapp.com/?user=Lanzik&theme=merko))
 </br>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lanzik&hide_border=true" alt="GitHub Streak" />
 ![](https://github-readme-stats.vercel.app/api?username=Lanzik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanzik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
