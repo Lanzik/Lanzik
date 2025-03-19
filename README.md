@@ -1,6 +1,9 @@
 # 💫 About Me:
-Computer science student at the University of Tehran.<br>Currently learning about Type Theory, Coq Proof Assistant, and Category Theory.<br>Passionate about the theoretical aspects of computer science.
+Computer Engineering student at the University of Tehran.
 
+Currently learning how to train various deep learning models specifically for financial markets and data science applications.
+
+Passionate about web scraping and data collection to support AI model training. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ex) [![CS Theory](https://img.shields.io/badge/-CS%20Theory-2F2F2F?logo=stack-exchange&logoColor=white)](https://cstheory.stackexchange.com/users/73618/ex)
