@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lanzik">
-      <img src="https://raw.githubusercontent.com/Lanzik/Lanzik/77ad0dc160adb1a99ce0e5d7deb30cb82107c6a6/readme-typing-svg.demolab.svg" />
+      <img src="https://raw.githubusercontent.com/Lanzik/Lanzik/4c13825958361b7b0e04a44e3195cb13c8037853/readme-typing-svg.demolab.svg" />
     </a>
 </p>
 
