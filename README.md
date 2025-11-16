@@ -1,21 +1,19 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Lanzik">
       <img src="https://raw.githubusercontent.com/Lanzik/Lanzik/4c13825958361b7b0e04a44e3195cb13c8037853/readme-typing-svg.demolab.svg" />
     </a>
 </p>
 
-<p align="center">
+<p align="center">-->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <!--<a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=%20AI%20%20%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00d254&vCenter=true&pause=1000&size=22" /></a>
-</p>
+</p>-->
 
 # 💫 About Me:
-Computer Engineering student at University of Tehran.
-
-Currently learning how to train various deep learning models specifically for financial markets and data science applications.
-
-Passionate about web scraping and data collection to support AI model training. 
+B.Sc. in Computer Engineering from the University of Tehran.
+Focused on training deep learning models for financial market forecasting and data-driven quantitative analysis.
+Interested in web scraping, large-scale data collection, and building data pipelines that support AI model development
 
 ## 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/farhad-ghanbari-98224524a/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://www.t.me/Farhaaaadam/)
