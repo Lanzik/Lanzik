@@ -12,7 +12,9 @@
 
 # 💫 About Me:
 B.Sc. in Computer Engineering from the University of Tehran.
+
 Focused on training deep learning models for financial market forecasting and data-driven quantitative analysis.
+
 Interested in web scraping, large-scale data collection, and building data pipelines that support AI model development
 
 ## 🌐 Socials:
